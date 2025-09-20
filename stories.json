@@ -1,14 +1,452 @@
 [
   {
-    "id": 1,
-    "title": "The Clever Fox",
-    "imageUrl": "https://your-github-username.github.io/your-repo/images/fox.jpg",
-    "content": "Once upon a time..."
+    "title": "The Lion and the Mouse (Story 1)",
+    "author": "Aesop",
+    "category": "Fable",
+    "ageGroup": "4-8",
+    "content": "Once upon a time, in a deep jungle, a mighty lion was sleeping under the shade of a tree. A small mouse ran over his body playfully. The lion woke up angrily and caught the mouse with his huge paw. 'How dare you disturb me? I will eat you!' roared the lion. The mouse trembled and pleaded, 'Please forgive me, mighty king. One day I may be able to help you.' The lion laughed loudly at the tiny creature's courage but decided to let it go. A few days later, the lion was caught in a hunter’s net. He roared and struggled but could not escape. Hearing his cries, the little mouse came running. With his sharp teeth, the mouse nibbled at the ropes until the lion was free. The lion realized even the smallest friend can be a great helper.",
+    "moral": "No act of kindness is ever wasted.",
+    "id": 1
   },
   {
-    "id": 2,
-    "title": "The Brave Lion",
-    "imageUrl": "https://your-github-username.github.io/your-repo/images/lion.jpg",
-    "content": "Long ago in the forest..."
+    "title": "The Thirsty Crow (Story 2)",
+    "author": "Traditional",
+    "category": "Folk Tale",
+    "ageGroup": "4-7",
+    "content": "On a hot summer day, a crow was flying around in search of water. After a long time, he saw a pot lying under a tree. The crow flew down eagerly and looked inside. There was a little water at the bottom, but the crow’s beak could not reach it. He thought for a while. Then he saw some pebbles nearby. One by one, he picked them up and dropped them into the pot. Slowly, the water level rose higher and higher. At last, the crow was able to drink the cool water. He felt refreshed and flew away happily.",
+    "moral": "Where there is a will, there is a way.",
+    "id": 2
+  },
+  {
+    "title": "Cinderella (Story 3)",
+    "author": "Charles Perrault",
+    "category": "Fairy Tale",
+    "ageGroup": "6-10",
+    "content": "Cinderella was a kind and gentle girl who lived with her wicked stepmother and two jealous stepsisters. They made her work all day, cooking, cleaning, and tending to the house, while they enjoyed luxuries. One day, an invitation came from the king to attend a royal ball. The stepsisters dressed in fine gowns and left poor Cinderella behind. She sat alone, crying, when her fairy godmother appeared. With a wave of her wand, she transformed Cinderella’s rags into a sparkling gown and gave her glass slippers. A pumpkin turned into a carriage, and mice into horses. The fairy godmother warned her, 'The magic will end at midnight.' At the ball, Cinderella captivated the prince with her beauty and grace. But at the stroke of midnight, she rushed away, leaving behind one glass slipper. The prince searched the kingdom, and when he tried the slipper on Cinderella’s foot, it fit perfectly. They married, and Cinderella’s kindness was rewarded forever.",
+    "moral": "Kindness and patience can lead to happiness.",
+    "id": 3
+  },
+  {
+    "title": "The Boy Who Cried Wolf (Story 4)",
+    "author": "Aesop",
+    "category": "Fable",
+    "ageGroup": "5-9",
+    "content": "A shepherd boy used to take his sheep to the hillside every day. He grew bored of watching them and thought of a trick. 'Wolf! Wolf!' he shouted, even though there was no wolf. The villagers rushed to help him, only to find it was a lie. The boy laughed at them. A few days later, he did the same again, and the villagers got angry. One evening, a real wolf came and attacked the sheep. The boy shouted desperately, 'Wolf! Wolf!' But no one came to help, thinking he was tricking them again. The wolf scattered the flock and the boy learned a hard lesson.",
+    "moral": "Nobody believes a liar, even when he speaks the truth.",
+    "id": 4
+  },
+  {
+    "title": "The Lion and the Mouse (Story 5)",
+    "author": "Aesop",
+    "category": "Fable",
+    "ageGroup": "4-8",
+    "content": "Once upon a time, in a deep jungle, a mighty lion was sleeping under the shade of a tree. A small mouse ran over his body playfully. The lion woke up angrily and caught the mouse with his huge paw. 'How dare you disturb me? I will eat you!' roared the lion. The mouse trembled and pleaded, 'Please forgive me, mighty king. One day I may be able to help you.' The lion laughed loudly at the tiny creature's courage but decided to let it go. A few days later, the lion was caught in a hunter’s net. He roared and struggled but could not escape. Hearing his cries, the little mouse came running. With his sharp teeth, the mouse nibbled at the ropes until the lion was free. The lion realized even the smallest friend can be a great helper.",
+    "moral": "No act of kindness is ever wasted.",
+    "id": 5
+  },
+  {
+    "title": "The Thirsty Crow (Story 6)",
+    "author": "Traditional",
+    "category": "Folk Tale",
+    "ageGroup": "4-7",
+    "content": "On a hot summer day, a crow was flying around in search of water. After a long time, he saw a pot lying under a tree. The crow flew down eagerly and looked inside. There was a little water at the bottom, but the crow’s beak could not reach it. He thought for a while. Then he saw some pebbles nearby. One by one, he picked them up and dropped them into the pot. Slowly, the water level rose higher and higher. At last, the crow was able to drink the cool water. He felt refreshed and flew away happily.",
+    "moral": "Where there is a will, there is a way.",
+    "id": 6
+  },
+  {
+    "title": "Cinderella (Story 7)",
+    "author": "Charles Perrault",
+    "category": "Fairy Tale",
+    "ageGroup": "6-10",
+    "content": "Cinderella was a kind and gentle girl who lived with her wicked stepmother and two jealous stepsisters. They made her work all day, cooking, cleaning, and tending to the house, while they enjoyed luxuries. One day, an invitation came from the king to attend a royal ball. The stepsisters dressed in fine gowns and left poor Cinderella behind. She sat alone, crying, when her fairy godmother appeared. With a wave of her wand, she transformed Cinderella’s rags into a sparkling gown and gave her glass slippers. A pumpkin turned into a carriage, and mice into horses. The fairy godmother warned her, 'The magic will end at midnight.' At the ball, Cinderella captivated the prince with her beauty and grace. But at the stroke of midnight, she rushed away, leaving behind one glass slipper. The prince searched the kingdom, and when he tried the slipper on Cinderella’s foot, it fit perfectly. They married, and Cinderella’s kindness was rewarded forever.",
+    "moral": "Kindness and patience can lead to happiness.",
+    "id": 7
+  },
+  {
+    "title": "The Boy Who Cried Wolf (Story 8)",
+    "author": "Aesop",
+    "category": "Fable",
+    "ageGroup": "5-9",
+    "content": "A shepherd boy used to take his sheep to the hillside every day. He grew bored of watching them and thought of a trick. 'Wolf! Wolf!' he shouted, even though there was no wolf. The villagers rushed to help him, only to find it was a lie. The boy laughed at them. A few days later, he did the same again, and the villagers got angry. One evening, a real wolf came and attacked the sheep. The boy shouted desperately, 'Wolf! Wolf!' But no one came to help, thinking he was tricking them again. The wolf scattered the flock and the boy learned a hard lesson.",
+    "moral": "Nobody believes a liar, even when he speaks the truth.",
+    "id": 8
+  },
+  {
+    "title": "The Lion and the Mouse (Story 9)",
+    "author": "Aesop",
+    "category": "Fable",
+    "ageGroup": "4-8",
+    "content": "Once upon a time, in a deep jungle, a mighty lion was sleeping under the shade of a tree. A small mouse ran over his body playfully. The lion woke up angrily and caught the mouse with his huge paw. 'How dare you disturb me? I will eat you!' roared the lion. The mouse trembled and pleaded, 'Please forgive me, mighty king. One day I may be able to help you.' The lion laughed loudly at the tiny creature's courage but decided to let it go. A few days later, the lion was caught in a hunter’s net. He roared and struggled but could not escape. Hearing his cries, the little mouse came running. With his sharp teeth, the mouse nibbled at the ropes until the lion was free. The lion realized even the smallest friend can be a great helper.",
+    "moral": "No act of kindness is ever wasted.",
+    "id": 9
+  },
+  {
+    "title": "The Thirsty Crow (Story 10)",
+    "author": "Traditional",
+    "category": "Folk Tale",
+    "ageGroup": "4-7",
+    "content": "On a hot summer day, a crow was flying around in search of water. After a long time, he saw a pot lying under a tree. The crow flew down eagerly and looked inside. There was a little water at the bottom, but the crow’s beak could not reach it. He thought for a while. Then he saw some pebbles nearby. One by one, he picked them up and dropped them into the pot. Slowly, the water level rose higher and higher. At last, the crow was able to drink the cool water. He felt refreshed and flew away happily.",
+    "moral": "Where there is a will, there is a way.",
+    "id": 10
+  },
+  {
+    "title": "Cinderella (Story 11)",
+    "author": "Charles Perrault",
+    "category": "Fairy Tale",
+    "ageGroup": "6-10",
+    "content": "Cinderella was a kind and gentle girl who lived with her wicked stepmother and two jealous stepsisters. They made her work all day, cooking, cleaning, and tending to the house, while they enjoyed luxuries. One day, an invitation came from the king to attend a royal ball. The stepsisters dressed in fine gowns and left poor Cinderella behind. She sat alone, crying, when her fairy godmother appeared. With a wave of her wand, she transformed Cinderella’s rags into a sparkling gown and gave her glass slippers. A pumpkin turned into a carriage, and mice into horses. The fairy godmother warned her, 'The magic will end at midnight.' At the ball, Cinderella captivated the prince with her beauty and grace. But at the stroke of midnight, she rushed away, leaving behind one glass slipper. The prince searched the kingdom, and when he tried the slipper on Cinderella’s foot, it fit perfectly. They married, and Cinderella’s kindness was rewarded forever.",
+    "moral": "Kindness and patience can lead to happiness.",
+    "id": 11
+  },
+  {
+    "title": "The Boy Who Cried Wolf (Story 12)",
+    "author": "Aesop",
+    "category": "Fable",
+    "ageGroup": "5-9",
+    "content": "A shepherd boy used to take his sheep to the hillside every day. He grew bored of watching them and thought of a trick. 'Wolf! Wolf!' he shouted, even though there was no wolf. The villagers rushed to help him, only to find it was a lie. The boy laughed at them. A few days later, he did the same again, and the villagers got angry. One evening, a real wolf came and attacked the sheep. The boy shouted desperately, 'Wolf! Wolf!' But no one came to help, thinking he was tricking them again. The wolf scattered the flock and the boy learned a hard lesson.",
+    "moral": "Nobody believes a liar, even when he speaks the truth.",
+    "id": 12
+  },
+  {
+    "title": "The Lion and the Mouse (Story 13)",
+    "author": "Aesop",
+    "category": "Fable",
+    "ageGroup": "4-8",
+    "content": "Once upon a time, in a deep jungle, a mighty lion was sleeping under the shade of a tree. A small mouse ran over his body playfully. The lion woke up angrily and caught the mouse with his huge paw. 'How dare you disturb me? I will eat you!' roared the lion. The mouse trembled and pleaded, 'Please forgive me, mighty king. One day I may be able to help you.' The lion laughed loudly at the tiny creature's courage but decided to let it go. A few days later, the lion was caught in a hunter’s net. He roared and struggled but could not escape. Hearing his cries, the little mouse came running. With his sharp teeth, the mouse nibbled at the ropes until the lion was free. The lion realized even the smallest friend can be a great helper.",
+    "moral": "No act of kindness is ever wasted.",
+    "id": 13
+  },
+  {
+    "title": "The Thirsty Crow (Story 14)",
+    "author": "Traditional",
+    "category": "Folk Tale",
+    "ageGroup": "4-7",
+    "content": "On a hot summer day, a crow was flying around in search of water. After a long time, he saw a pot lying under a tree. The crow flew down eagerly and looked inside. There was a little water at the bottom, but the crow’s beak could not reach it. He thought for a while. Then he saw some pebbles nearby. One by one, he picked them up and dropped them into the pot. Slowly, the water level rose higher and higher. At last, the crow was able to drink the cool water. He felt refreshed and flew away happily.",
+    "moral": "Where there is a will, there is a way.",
+    "id": 14
+  },
+  {
+    "title": "Cinderella (Story 15)",
+    "author": "Charles Perrault",
+    "category": "Fairy Tale",
+    "ageGroup": "6-10",
+    "content": "Cinderella was a kind and gentle girl who lived with her wicked stepmother and two jealous stepsisters. They made her work all day, cooking, cleaning, and tending to the house, while they enjoyed luxuries. One day, an invitation came from the king to attend a royal ball. The stepsisters dressed in fine gowns and left poor Cinderella behind. She sat alone, crying, when her fairy godmother appeared. With a wave of her wand, she transformed Cinderella’s rags into a sparkling gown and gave her glass slippers. A pumpkin turned into a carriage, and mice into horses. The fairy godmother warned her, 'The magic will end at midnight.' At the ball, Cinderella captivated the prince with her beauty and grace. But at the stroke of midnight, she rushed away, leaving behind one glass slipper. The prince searched the kingdom, and when he tried the slipper on Cinderella’s foot, it fit perfectly. They married, and Cinderella’s kindness was rewarded forever.",
+    "moral": "Kindness and patience can lead to happiness.",
+    "id": 15
+  },
+  {
+    "title": "The Boy Who Cried Wolf (Story 16)",
+    "author": "Aesop",
+    "category": "Fable",
+    "ageGroup": "5-9",
+    "content": "A shepherd boy used to take his sheep to the hillside every day. He grew bored of watching them and thought of a trick. 'Wolf! Wolf!' he shouted, even though there was no wolf. The villagers rushed to help him, only to find it was a lie. The boy laughed at them. A few days later, he did the same again, and the villagers got angry. One evening, a real wolf came and attacked the sheep. The boy shouted desperately, 'Wolf! Wolf!' But no one came to help, thinking he was tricking them again. The wolf scattered the flock and the boy learned a hard lesson.",
+    "moral": "Nobody believes a liar, even when he speaks the truth.",
+    "id": 16
+  },
+  {
+    "title": "The Lion and the Mouse (Story 17)",
+    "author": "Aesop",
+    "category": "Fable",
+    "ageGroup": "4-8",
+    "content": "Once upon a time, in a deep jungle, a mighty lion was sleeping under the shade of a tree. A small mouse ran over his body playfully. The lion woke up angrily and caught the mouse with his huge paw. 'How dare you disturb me? I will eat you!' roared the lion. The mouse trembled and pleaded, 'Please forgive me, mighty king. One day I may be able to help you.' The lion laughed loudly at the tiny creature's courage but decided to let it go. A few days later, the lion was caught in a hunter’s net. He roared and struggled but could not escape. Hearing his cries, the little mouse came running. With his sharp teeth, the mouse nibbled at the ropes until the lion was free. The lion realized even the smallest friend can be a great helper.",
+    "moral": "No act of kindness is ever wasted.",
+    "id": 17
+  },
+  {
+    "title": "The Thirsty Crow (Story 18)",
+    "author": "Traditional",
+    "category": "Folk Tale",
+    "ageGroup": "4-7",
+    "content": "On a hot summer day, a crow was flying around in search of water. After a long time, he saw a pot lying under a tree. The crow flew down eagerly and looked inside. There was a little water at the bottom, but the crow’s beak could not reach it. He thought for a while. Then he saw some pebbles nearby. One by one, he picked them up and dropped them into the pot. Slowly, the water level rose higher and higher. At last, the crow was able to drink the cool water. He felt refreshed and flew away happily.",
+    "moral": "Where there is a will, there is a way.",
+    "id": 18
+  },
+  {
+    "title": "Cinderella (Story 19)",
+    "author": "Charles Perrault",
+    "category": "Fairy Tale",
+    "ageGroup": "6-10",
+    "content": "Cinderella was a kind and gentle girl who lived with her wicked stepmother and two jealous stepsisters. They made her work all day, cooking, cleaning, and tending to the house, while they enjoyed luxuries. One day, an invitation came from the king to attend a royal ball. The stepsisters dressed in fine gowns and left poor Cinderella behind. She sat alone, crying, when her fairy godmother appeared. With a wave of her wand, she transformed Cinderella’s rags into a sparkling gown and gave her glass slippers. A pumpkin turned into a carriage, and mice into horses. The fairy godmother warned her, 'The magic will end at midnight.' At the ball, Cinderella captivated the prince with her beauty and grace. But at the stroke of midnight, she rushed away, leaving behind one glass slipper. The prince searched the kingdom, and when he tried the slipper on Cinderella’s foot, it fit perfectly. They married, and Cinderella’s kindness was rewarded forever.",
+    "moral": "Kindness and patience can lead to happiness.",
+    "id": 19
+  },
+  {
+    "title": "The Boy Who Cried Wolf (Story 20)",
+    "author": "Aesop",
+    "category": "Fable",
+    "ageGroup": "5-9",
+    "content": "A shepherd boy used to take his sheep to the hillside every day. He grew bored of watching them and thought of a trick. 'Wolf! Wolf!' he shouted, even though there was no wolf. The villagers rushed to help him, only to find it was a lie. The boy laughed at them. A few days later, he did the same again, and the villagers got angry. One evening, a real wolf came and attacked the sheep. The boy shouted desperately, 'Wolf! Wolf!' But no one came to help, thinking he was tricking them again. The wolf scattered the flock and the boy learned a hard lesson.",
+    "moral": "Nobody believes a liar, even when he speaks the truth.",
+    "id": 20
+  },
+  {
+    "title": "The Lion and the Mouse (Story 21)",
+    "author": "Aesop",
+    "category": "Fable",
+    "ageGroup": "4-8",
+    "content": "Once upon a time, in a deep jungle, a mighty lion was sleeping under the shade of a tree. A small mouse ran over his body playfully. The lion woke up angrily and caught the mouse with his huge paw. 'How dare you disturb me? I will eat you!' roared the lion. The mouse trembled and pleaded, 'Please forgive me, mighty king. One day I may be able to help you.' The lion laughed loudly at the tiny creature's courage but decided to let it go. A few days later, the lion was caught in a hunter’s net. He roared and struggled but could not escape. Hearing his cries, the little mouse came running. With his sharp teeth, the mouse nibbled at the ropes until the lion was free. The lion realized even the smallest friend can be a great helper.",
+    "moral": "No act of kindness is ever wasted.",
+    "id": 21
+  },
+  {
+    "title": "The Thirsty Crow (Story 22)",
+    "author": "Traditional",
+    "category": "Folk Tale",
+    "ageGroup": "4-7",
+    "content": "On a hot summer day, a crow was flying around in search of water. After a long time, he saw a pot lying under a tree. The crow flew down eagerly and looked inside. There was a little water at the bottom, but the crow’s beak could not reach it. He thought for a while. Then he saw some pebbles nearby. One by one, he picked them up and dropped them into the pot. Slowly, the water level rose higher and higher. At last, the crow was able to drink the cool water. He felt refreshed and flew away happily.",
+    "moral": "Where there is a will, there is a way.",
+    "id": 22
+  },
+  {
+    "title": "Cinderella (Story 23)",
+    "author": "Charles Perrault",
+    "category": "Fairy Tale",
+    "ageGroup": "6-10",
+    "content": "Cinderella was a kind and gentle girl who lived with her wicked stepmother and two jealous stepsisters. They made her work all day, cooking, cleaning, and tending to the house, while they enjoyed luxuries. One day, an invitation came from the king to attend a royal ball. The stepsisters dressed in fine gowns and left poor Cinderella behind. She sat alone, crying, when her fairy godmother appeared. With a wave of her wand, she transformed Cinderella’s rags into a sparkling gown and gave her glass slippers. A pumpkin turned into a carriage, and mice into horses. The fairy godmother warned her, 'The magic will end at midnight.' At the ball, Cinderella captivated the prince with her beauty and grace. But at the stroke of midnight, she rushed away, leaving behind one glass slipper. The prince searched the kingdom, and when he tried the slipper on Cinderella’s foot, it fit perfectly. They married, and Cinderella’s kindness was rewarded forever.",
+    "moral": "Kindness and patience can lead to happiness.",
+    "id": 23
+  },
+  {
+    "title": "The Boy Who Cried Wolf (Story 24)",
+    "author": "Aesop",
+    "category": "Fable",
+    "ageGroup": "5-9",
+    "content": "A shepherd boy used to take his sheep to the hillside every day. He grew bored of watching them and thought of a trick. 'Wolf! Wolf!' he shouted, even though there was no wolf. The villagers rushed to help him, only to find it was a lie. The boy laughed at them. A few days later, he did the same again, and the villagers got angry. One evening, a real wolf came and attacked the sheep. The boy shouted desperately, 'Wolf! Wolf!' But no one came to help, thinking he was tricking them again. The wolf scattered the flock and the boy learned a hard lesson.",
+    "moral": "Nobody believes a liar, even when he speaks the truth.",
+    "id": 24
+  },
+  {
+    "title": "The Lion and the Mouse (Story 25)",
+    "author": "Aesop",
+    "category": "Fable",
+    "ageGroup": "4-8",
+    "content": "Once upon a time, in a deep jungle, a mighty lion was sleeping under the shade of a tree. A small mouse ran over his body playfully. The lion woke up angrily and caught the mouse with his huge paw. 'How dare you disturb me? I will eat you!' roared the lion. The mouse trembled and pleaded, 'Please forgive me, mighty king. One day I may be able to help you.' The lion laughed loudly at the tiny creature's courage but decided to let it go. A few days later, the lion was caught in a hunter’s net. He roared and struggled but could not escape. Hearing his cries, the little mouse came running. With his sharp teeth, the mouse nibbled at the ropes until the lion was free. The lion realized even the smallest friend can be a great helper.",
+    "moral": "No act of kindness is ever wasted.",
+    "id": 25
+  },
+  {
+    "title": "The Thirsty Crow (Story 26)",
+    "author": "Traditional",
+    "category": "Folk Tale",
+    "ageGroup": "4-7",
+    "content": "On a hot summer day, a crow was flying around in search of water. After a long time, he saw a pot lying under a tree. The crow flew down eagerly and looked inside. There was a little water at the bottom, but the crow’s beak could not reach it. He thought for a while. Then he saw some pebbles nearby. One by one, he picked them up and dropped them into the pot. Slowly, the water level rose higher and higher. At last, the crow was able to drink the cool water. He felt refreshed and flew away happily.",
+    "moral": "Where there is a will, there is a way.",
+    "id": 26
+  },
+  {
+    "title": "Cinderella (Story 27)",
+    "author": "Charles Perrault",
+    "category": "Fairy Tale",
+    "ageGroup": "6-10",
+    "content": "Cinderella was a kind and gentle girl who lived with her wicked stepmother and two jealous stepsisters. They made her work all day, cooking, cleaning, and tending to the house, while they enjoyed luxuries. One day, an invitation came from the king to attend a royal ball. The stepsisters dressed in fine gowns and left poor Cinderella behind. She sat alone, crying, when her fairy godmother appeared. With a wave of her wand, she transformed Cinderella’s rags into a sparkling gown and gave her glass slippers. A pumpkin turned into a carriage, and mice into horses. The fairy godmother warned her, 'The magic will end at midnight.' At the ball, Cinderella captivated the prince with her beauty and grace. But at the stroke of midnight, she rushed away, leaving behind one glass slipper. The prince searched the kingdom, and when he tried the slipper on Cinderella’s foot, it fit perfectly. They married, and Cinderella’s kindness was rewarded forever.",
+    "moral": "Kindness and patience can lead to happiness.",
+    "id": 27
+  },
+  {
+    "title": "The Boy Who Cried Wolf (Story 28)",
+    "author": "Aesop",
+    "category": "Fable",
+    "ageGroup": "5-9",
+    "content": "A shepherd boy used to take his sheep to the hillside every day. He grew bored of watching them and thought of a trick. 'Wolf! Wolf!' he shouted, even though there was no wolf. The villagers rushed to help him, only to find it was a lie. The boy laughed at them. A few days later, he did the same again, and the villagers got angry. One evening, a real wolf came and attacked the sheep. The boy shouted desperately, 'Wolf! Wolf!' But no one came to help, thinking he was tricking them again. The wolf scattered the flock and the boy learned a hard lesson.",
+    "moral": "Nobody believes a liar, even when he speaks the truth.",
+    "id": 28
+  },
+  {
+    "title": "The Lion and the Mouse (Story 29)",
+    "author": "Aesop",
+    "category": "Fable",
+    "ageGroup": "4-8",
+    "content": "Once upon a time, in a deep jungle, a mighty lion was sleeping under the shade of a tree. A small mouse ran over his body playfully. The lion woke up angrily and caught the mouse with his huge paw. 'How dare you disturb me? I will eat you!' roared the lion. The mouse trembled and pleaded, 'Please forgive me, mighty king. One day I may be able to help you.' The lion laughed loudly at the tiny creature's courage but decided to let it go. A few days later, the lion was caught in a hunter’s net. He roared and struggled but could not escape. Hearing his cries, the little mouse came running. With his sharp teeth, the mouse nibbled at the ropes until the lion was free. The lion realized even the smallest friend can be a great helper.",
+    "moral": "No act of kindness is ever wasted.",
+    "id": 29
+  },
+  {
+    "title": "The Thirsty Crow (Story 30)",
+    "author": "Traditional",
+    "category": "Folk Tale",
+    "ageGroup": "4-7",
+    "content": "On a hot summer day, a crow was flying around in search of water. After a long time, he saw a pot lying under a tree. The crow flew down eagerly and looked inside. There was a little water at the bottom, but the crow’s beak could not reach it. He thought for a while. Then he saw some pebbles nearby. One by one, he picked them up and dropped them into the pot. Slowly, the water level rose higher and higher. At last, the crow was able to drink the cool water. He felt refreshed and flew away happily.",
+    "moral": "Where there is a will, there is a way.",
+    "id": 30
+  },
+  {
+    "title": "Cinderella (Story 31)",
+    "author": "Charles Perrault",
+    "category": "Fairy Tale",
+    "ageGroup": "6-10",
+    "content": "Cinderella was a kind and gentle girl who lived with her wicked stepmother and two jealous stepsisters. They made her work all day, cooking, cleaning, and tending to the house, while they enjoyed luxuries. One day, an invitation came from the king to attend a royal ball. The stepsisters dressed in fine gowns and left poor Cinderella behind. She sat alone, crying, when her fairy godmother appeared. With a wave of her wand, she transformed Cinderella’s rags into a sparkling gown and gave her glass slippers. A pumpkin turned into a carriage, and mice into horses. The fairy godmother warned her, 'The magic will end at midnight.' At the ball, Cinderella captivated the prince with her beauty and grace. But at the stroke of midnight, she rushed away, leaving behind one glass slipper. The prince searched the kingdom, and when he tried the slipper on Cinderella’s foot, it fit perfectly. They married, and Cinderella’s kindness was rewarded forever.",
+    "moral": "Kindness and patience can lead to happiness.",
+    "id": 31
+  },
+  {
+    "title": "The Boy Who Cried Wolf (Story 32)",
+    "author": "Aesop",
+    "category": "Fable",
+    "ageGroup": "5-9",
+    "content": "A shepherd boy used to take his sheep to the hillside every day. He grew bored of watching them and thought of a trick. 'Wolf! Wolf!' he shouted, even though there was no wolf. The villagers rushed to help him, only to find it was a lie. The boy laughed at them. A few days later, he did the same again, and the villagers got angry. One evening, a real wolf came and attacked the sheep. The boy shouted desperately, 'Wolf! Wolf!' But no one came to help, thinking he was tricking them again. The wolf scattered the flock and the boy learned a hard lesson.",
+    "moral": "Nobody believes a liar, even when he speaks the truth.",
+    "id": 32
+  },
+  {
+    "title": "The Lion and the Mouse (Story 33)",
+    "author": "Aesop",
+    "category": "Fable",
+    "ageGroup": "4-8",
+    "content": "Once upon a time, in a deep jungle, a mighty lion was sleeping under the shade of a tree. A small mouse ran over his body playfully. The lion woke up angrily and caught the mouse with his huge paw. 'How dare you disturb me? I will eat you!' roared the lion. The mouse trembled and pleaded, 'Please forgive me, mighty king. One day I may be able to help you.' The lion laughed loudly at the tiny creature's courage but decided to let it go. A few days later, the lion was caught in a hunter’s net. He roared and struggled but could not escape. Hearing his cries, the little mouse came running. With his sharp teeth, the mouse nibbled at the ropes until the lion was free. The lion realized even the smallest friend can be a great helper.",
+    "moral": "No act of kindness is ever wasted.",
+    "id": 33
+  },
+  {
+    "title": "The Thirsty Crow (Story 34)",
+    "author": "Traditional",
+    "category": "Folk Tale",
+    "ageGroup": "4-7",
+    "content": "On a hot summer day, a crow was flying around in search of water. After a long time, he saw a pot lying under a tree. The crow flew down eagerly and looked inside. There was a little water at the bottom, but the crow’s beak could not reach it. He thought for a while. Then he saw some pebbles nearby. One by one, he picked them up and dropped them into the pot. Slowly, the water level rose higher and higher. At last, the crow was able to drink the cool water. He felt refreshed and flew away happily.",
+    "moral": "Where there is a will, there is a way.",
+    "id": 34
+  },
+  {
+    "title": "Cinderella (Story 35)",
+    "author": "Charles Perrault",
+    "category": "Fairy Tale",
+    "ageGroup": "6-10",
+    "content": "Cinderella was a kind and gentle girl who lived with her wicked stepmother and two jealous stepsisters. They made her work all day, cooking, cleaning, and tending to the house, while they enjoyed luxuries. One day, an invitation came from the king to attend a royal ball. The stepsisters dressed in fine gowns and left poor Cinderella behind. She sat alone, crying, when her fairy godmother appeared. With a wave of her wand, she transformed Cinderella’s rags into a sparkling gown and gave her glass slippers. A pumpkin turned into a carriage, and mice into horses. The fairy godmother warned her, 'The magic will end at midnight.' At the ball, Cinderella captivated the prince with her beauty and grace. But at the stroke of midnight, she rushed away, leaving behind one glass slipper. The prince searched the kingdom, and when he tried the slipper on Cinderella’s foot, it fit perfectly. They married, and Cinderella’s kindness was rewarded forever.",
+    "moral": "Kindness and patience can lead to happiness.",
+    "id": 35
+  },
+  {
+    "title": "The Boy Who Cried Wolf (Story 36)",
+    "author": "Aesop",
+    "category": "Fable",
+    "ageGroup": "5-9",
+    "content": "A shepherd boy used to take his sheep to the hillside every day. He grew bored of watching them and thought of a trick. 'Wolf! Wolf!' he shouted, even though there was no wolf. The villagers rushed to help him, only to find it was a lie. The boy laughed at them. A few days later, he did the same again, and the villagers got angry. One evening, a real wolf came and attacked the sheep. The boy shouted desperately, 'Wolf! Wolf!' But no one came to help, thinking he was tricking them again. The wolf scattered the flock and the boy learned a hard lesson.",
+    "moral": "Nobody believes a liar, even when he speaks the truth.",
+    "id": 36
+  },
+  {
+    "title": "The Lion and the Mouse (Story 37)",
+    "author": "Aesop",
+    "category": "Fable",
+    "ageGroup": "4-8",
+    "content": "Once upon a time, in a deep jungle, a mighty lion was sleeping under the shade of a tree. A small mouse ran over his body playfully. The lion woke up angrily and caught the mouse with his huge paw. 'How dare you disturb me? I will eat you!' roared the lion. The mouse trembled and pleaded, 'Please forgive me, mighty king. One day I may be able to help you.' The lion laughed loudly at the tiny creature's courage but decided to let it go. A few days later, the lion was caught in a hunter’s net. He roared and struggled but could not escape. Hearing his cries, the little mouse came running. With his sharp teeth, the mouse nibbled at the ropes until the lion was free. The lion realized even the smallest friend can be a great helper.",
+    "moral": "No act of kindness is ever wasted.",
+    "id": 37
+  },
+  {
+    "title": "The Thirsty Crow (Story 38)",
+    "author": "Traditional",
+    "category": "Folk Tale",
+    "ageGroup": "4-7",
+    "content": "On a hot summer day, a crow was flying around in search of water. After a long time, he saw a pot lying under a tree. The crow flew down eagerly and looked inside. There was a little water at the bottom, but the crow’s beak could not reach it. He thought for a while. Then he saw some pebbles nearby. One by one, he picked them up and dropped them into the pot. Slowly, the water level rose higher and higher. At last, the crow was able to drink the cool water. He felt refreshed and flew away happily.",
+    "moral": "Where there is a will, there is a way.",
+    "id": 38
+  },
+  {
+    "title": "Cinderella (Story 39)",
+    "author": "Charles Perrault",
+    "category": "Fairy Tale",
+    "ageGroup": "6-10",
+    "content": "Cinderella was a kind and gentle girl who lived with her wicked stepmother and two jealous stepsisters. They made her work all day, cooking, cleaning, and tending to the house, while they enjoyed luxuries. One day, an invitation came from the king to attend a royal ball. The stepsisters dressed in fine gowns and left poor Cinderella behind. She sat alone, crying, when her fairy godmother appeared. With a wave of her wand, she transformed Cinderella’s rags into a sparkling gown and gave her glass slippers. A pumpkin turned into a carriage, and mice into horses. The fairy godmother warned her, 'The magic will end at midnight.' At the ball, Cinderella captivated the prince with her beauty and grace. But at the stroke of midnight, she rushed away, leaving behind one glass slipper. The prince searched the kingdom, and when he tried the slipper on Cinderella’s foot, it fit perfectly. They married, and Cinderella’s kindness was rewarded forever.",
+    "moral": "Kindness and patience can lead to happiness.",
+    "id": 39
+  },
+  {
+    "title": "The Boy Who Cried Wolf (Story 40)",
+    "author": "Aesop",
+    "category": "Fable",
+    "ageGroup": "5-9",
+    "content": "A shepherd boy used to take his sheep to the hillside every day. He grew bored of watching them and thought of a trick. 'Wolf! Wolf!' he shouted, even though there was no wolf. The villagers rushed to help him, only to find it was a lie. The boy laughed at them. A few days later, he did the same again, and the villagers got angry. One evening, a real wolf came and attacked the sheep. The boy shouted desperately, 'Wolf! Wolf!' But no one came to help, thinking he was tricking them again. The wolf scattered the flock and the boy learned a hard lesson.",
+    "moral": "Nobody believes a liar, even when he speaks the truth.",
+    "id": 40
+  },
+  {
+    "title": "The Lion and the Mouse (Story 41)",
+    "author": "Aesop",
+    "category": "Fable",
+    "ageGroup": "4-8",
+    "content": "Once upon a time, in a deep jungle, a mighty lion was sleeping under the shade of a tree. A small mouse ran over his body playfully. The lion woke up angrily and caught the mouse with his huge paw. 'How dare you disturb me? I will eat you!' roared the lion. The mouse trembled and pleaded, 'Please forgive me, mighty king. One day I may be able to help you.' The lion laughed loudly at the tiny creature's courage but decided to let it go. A few days later, the lion was caught in a hunter’s net. He roared and struggled but could not escape. Hearing his cries, the little mouse came running. With his sharp teeth, the mouse nibbled at the ropes until the lion was free. The lion realized even the smallest friend can be a great helper.",
+    "moral": "No act of kindness is ever wasted.",
+    "id": 41
+  },
+  {
+    "title": "The Thirsty Crow (Story 42)",
+    "author": "Traditional",
+    "category": "Folk Tale",
+    "ageGroup": "4-7",
+    "content": "On a hot summer day, a crow was flying around in search of water. After a long time, he saw a pot lying under a tree. The crow flew down eagerly and looked inside. There was a little water at the bottom, but the crow’s beak could not reach it. He thought for a while. Then he saw some pebbles nearby. One by one, he picked them up and dropped them into the pot. Slowly, the water level rose higher and higher. At last, the crow was able to drink the cool water. He felt refreshed and flew away happily.",
+    "moral": "Where there is a will, there is a way.",
+    "id": 42
+  },
+  {
+    "title": "Cinderella (Story 43)",
+    "author": "Charles Perrault",
+    "category": "Fairy Tale",
+    "ageGroup": "6-10",
+    "content": "Cinderella was a kind and gentle girl who lived with her wicked stepmother and two jealous stepsisters. They made her work all day, cooking, cleaning, and tending to the house, while they enjoyed luxuries. One day, an invitation came from the king to attend a royal ball. The stepsisters dressed in fine gowns and left poor Cinderella behind. She sat alone, crying, when her fairy godmother appeared. With a wave of her wand, she transformed Cinderella’s rags into a sparkling gown and gave her glass slippers. A pumpkin turned into a carriage, and mice into horses. The fairy godmother warned her, 'The magic will end at midnight.' At the ball, Cinderella captivated the prince with her beauty and grace. But at the stroke of midnight, she rushed away, leaving behind one glass slipper. The prince searched the kingdom, and when he tried the slipper on Cinderella’s foot, it fit perfectly. They married, and Cinderella’s kindness was rewarded forever.",
+    "moral": "Kindness and patience can lead to happiness.",
+    "id": 43
+  },
+  {
+    "title": "The Boy Who Cried Wolf (Story 44)",
+    "author": "Aesop",
+    "category": "Fable",
+    "ageGroup": "5-9",
+    "content": "A shepherd boy used to take his sheep to the hillside every day. He grew bored of watching them and thought of a trick. 'Wolf! Wolf!' he shouted, even though there was no wolf. The villagers rushed to help him, only to find it was a lie. The boy laughed at them. A few days later, he did the same again, and the villagers got angry. One evening, a real wolf came and attacked the sheep. The boy shouted desperately, 'Wolf! Wolf!' But no one came to help, thinking he was tricking them again. The wolf scattered the flock and the boy learned a hard lesson.",
+    "moral": "Nobody believes a liar, even when he speaks the truth.",
+    "id": 44
+  },
+  {
+    "title": "The Lion and the Mouse (Story 45)",
+    "author": "Aesop",
+    "category": "Fable",
+    "ageGroup": "4-8",
+    "content": "Once upon a time, in a deep jungle, a mighty lion was sleeping under the shade of a tree. A small mouse ran over his body playfully. The lion woke up angrily and caught the mouse with his huge paw. 'How dare you disturb me? I will eat you!' roared the lion. The mouse trembled and pleaded, 'Please forgive me, mighty king. One day I may be able to help you.' The lion laughed loudly at the tiny creature's courage but decided to let it go. A few days later, the lion was caught in a hunter’s net. He roared and struggled but could not escape. Hearing his cries, the little mouse came running. With his sharp teeth, the mouse nibbled at the ropes until the lion was free. The lion realized even the smallest friend can be a great helper.",
+    "moral": "No act of kindness is ever wasted.",
+    "id": 45
+  },
+  {
+    "title": "The Thirsty Crow (Story 46)",
+    "author": "Traditional",
+    "category": "Folk Tale",
+    "ageGroup": "4-7",
+    "content": "On a hot summer day, a crow was flying around in search of water. After a long time, he saw a pot lying under a tree. The crow flew down eagerly and looked inside. There was a little water at the bottom, but the crow’s beak could not reach it. He thought for a while. Then he saw some pebbles nearby. One by one, he picked them up and dropped them into the pot. Slowly, the water level rose higher and higher. At last, the crow was able to drink the cool water. He felt refreshed and flew away happily.",
+    "moral": "Where there is a will, there is a way.",
+    "id": 46
+  },
+  {
+    "title": "Cinderella (Story 47)",
+    "author": "Charles Perrault",
+    "category": "Fairy Tale",
+    "ageGroup": "6-10",
+    "content": "Cinderella was a kind and gentle girl who lived with her wicked stepmother and two jealous stepsisters. They made her work all day, cooking, cleaning, and tending to the house, while they enjoyed luxuries. One day, an invitation came from the king to attend a royal ball. The stepsisters dressed in fine gowns and left poor Cinderella behind. She sat alone, crying, when her fairy godmother appeared. With a wave of her wand, she transformed Cinderella’s rags into a sparkling gown and gave her glass slippers. A pumpkin turned into a carriage, and mice into horses. The fairy godmother warned her, 'The magic will end at midnight.' At the ball, Cinderella captivated the prince with her beauty and grace. But at the stroke of midnight, she rushed away, leaving behind one glass slipper. The prince searched the kingdom, and when he tried the slipper on Cinderella’s foot, it fit perfectly. They married, and Cinderella’s kindness was rewarded forever.",
+    "moral": "Kindness and patience can lead to happiness.",
+    "id": 47
+  },
+  {
+    "title": "The Boy Who Cried Wolf (Story 48)",
+    "author": "Aesop",
+    "category": "Fable",
+    "ageGroup": "5-9",
+    "content": "A shepherd boy used to take his sheep to the hillside every day. He grew bored of watching them and thought of a trick. 'Wolf! Wolf!' he shouted, even though there was no wolf. The villagers rushed to help him, only to find it was a lie. The boy laughed at them. A few days later, he did the same again, and the villagers got angry. One evening, a real wolf came and attacked the sheep. The boy shouted desperately, 'Wolf! Wolf!' But no one came to help, thinking he was tricking them again. The wolf scattered the flock and the boy learned a hard lesson.",
+    "moral": "Nobody believes a liar, even when he speaks the truth.",
+    "id": 48
+  },
+  {
+    "title": "The Lion and the Mouse (Story 49)",
+    "author": "Aesop",
+    "category": "Fable",
+    "ageGroup": "4-8",
+    "content": "Once upon a time, in a deep jungle, a mighty lion was sleeping under the shade of a tree. A small mouse ran over his body playfully. The lion woke up angrily and caught the mouse with his huge paw. 'How dare you disturb me? I will eat you!' roared the lion. The mouse trembled and pleaded, 'Please forgive me, mighty king. One day I may be able to help you.' The lion laughed loudly at the tiny creature's courage but decided to let it go. A few days later, the lion was caught in a hunter’s net. He roared and struggled but could not escape. Hearing his cries, the little mouse came running. With his sharp teeth, the mouse nibbled at the ropes until the lion was free. The lion realized even the smallest friend can be a great helper.",
+    "moral": "No act of kindness is ever wasted.",
+    "id": 49
+  },
+  {
+    "title": "The Thirsty Crow (Story 50)",
+    "author": "Traditional",
+    "category": "Folk Tale",
+    "ageGroup": "4-7",
+    "content": "On a hot summer day, a crow was flying around in search of water. After a long time, he saw a pot lying under a tree. The crow flew down eagerly and looked inside. There was a little water at the bottom, but the crow’s beak could not reach it. He thought for a while. Then he saw some pebbles nearby. One by one, he picked them up and dropped them into the pot. Slowly, the water level rose higher and higher. At last, the crow was able to drink the cool water. He felt refreshed and flew away happily.",
+    "moral": "Where there is a will, there is a way.",
+    "id": 50
   }
 ]
