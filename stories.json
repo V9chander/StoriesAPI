@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "The Clever Fox",
+    "imageUrl": "https://your-github-username.github.io/your-repo/images/fox.jpg",
+    "content": "Once upon a time..."
+  },
+  {
+    "id": 2,
+    "title": "The Brave Lion",
+    "imageUrl": "https://your-github-username.github.io/your-repo/images/lion.jpg",
+    "content": "Long ago in the forest..."
+  }
+]
