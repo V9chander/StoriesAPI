@@ -39,7 +39,7 @@
         {
             "id": 4,
             "title": "The Boy Who Cried Wolf",
-            "content": ""
+            "content": "aaaaaasas"
             "imageUrl": "https://i.postimg.cc/V6cmWWqc/image.png",
             "thumbinalUrl": "https://i.postimg.cc/h4dVLg6r/image.png",
             "author": "Aesop",
@@ -51,7 +51,7 @@
         {
             "id": 5,
             "title": "The Ant and the Grasshopper",
-            "content": "One summer's day, a grasshopper was hopping about, chirping and singing.\nHe saw an ant working hard, carrying food to its nest.\n\nThe grasshopper laughed and said, Why work so hard? Come, sing and play with me.\nThe ant replied, I am storing food for the winter. You should do the same.\nThe grasshopper ignored the advice and kept playing all summer.\nWhen winter came, the grasshopper had no food and was starving.\nHe saw the ants enjoying the food they had stored.\nThen the grasshopper realized:\nIt is wise to prepare today for the needs of tomorrow."
+            "content": "One summer's day, a grasshopper was hopping about, chirping and singing.\nHe saw an ant working hard, carrying food to its nest.\nThe grasshopper laughed and said, Why work so hard? Come, sing and play with me.\nThe ant replied, I am storing food for the winter. You should do the same.\nThe grasshopper ignored the advice and kept playing all summer.\nWhen winter came, the grasshopper had no food and was starving.\nHe saw the ants enjoying the food they had stored.\nThen the grasshopper realized:\nIt is wise to prepare today for the needs of tomorrow."
             "imageUrl": "https://i.postimg.cc/Hs8vT1GB/image.png",
             "thumbinalUrl": "https://i.postimg.cc/8j6g05qh/image.png",
             "author": "Traditional",
@@ -63,7 +63,7 @@
         {
             "id": 6,
             "title": "The Fox and the Grapes",
-            "content": "One hot summer day, a fox was walking through an orchard.\nHe saw a bunch of ripe, juicy grapes hanging from a vine.\n\nThe fox’s mouth watered, and he jumped to reach them.\nBut the grapes were too high.\n\nHe tried again and again, leaping with all his strength.\nStill, he could not reach the grapes.\n\nAt last, the fox gave up and walked away, saying,\n Those grapes are probably sour anyway."
+            "content": "One hot summer day, a fox was walking through an orchard.\nHe saw a bunch of ripe, juicy grapes hanging from a vine.\n\nThe fox’s mouth watered, and he jumped to reach them.\nBut the grapes were too high.\nHe tried again and again, leaping with all his strength.\nStill, he could not reach the grapes.\nAt last, the fox gave up and walked away, saying,\n Those grapes are probably sour anyway."
             "imageUrl": "https://i.postimg.cc/SRk938pB/image.png",
             "thumbinalUrl": "https://i.postimg.cc/0zFShJZS/image.png",
             "author": "Anonymous",
@@ -87,7 +87,7 @@
         {
             "id": 8,
             "title": "The Tortoise and the Hare",
-            "content": "One day, a hare was boasting about how fast he could run.\nHe laughed at the slow tortoise for moving so slowly.\n\nThe tortoise challenged the hare to a race.\nThe hare agreed, thinking it would be an easy win.\n\nWhen the race began, the hare ran very fast and soon left the tortoise far behind.\nConfident of his victory, the hare lay down under a tree and fell asleep.\n\nMeanwhile, the tortoise kept moving slowly but steadily.\nHe never stopped or gave up.\n\nAt last, the tortoise reached the finish line before the hare woke up."
+            "content": "One day, a hare was boasting about how fast he could run.\nHe laughed at the slow tortoise for moving so slowly.\nThe tortoise challenged the hare to a race.\nThe hare agreed, thinking it would be an easy win.\nWhen the race began, the hare ran very fast and soon left the tortoise far behind.\nConfident of his victory, the hare lay down under a tree and fell asleep.\nMeanwhile, the tortoise kept moving slowly but steadily.\nHe never stopped or gave up.\nAt last, the tortoise reached the finish line before the hare woke up."
             "imageUrl": "https://i.postimg.cc/0Qc55JSR/image.png",
             "thumbinalUrl": "https://i.postimg.cc/G9RWMr6d/image.png",
             "author": "Aesop",
@@ -99,7 +99,7 @@
         {
             "id": 9,
             "title": "The Bundle of Sticks",
-            "content": "An old man had several sons who often quarreled with one another.\nHe wanted to teach them the value of unity.\n\nHe called his sons and gave each of them a single stick, asking them to break it.\nEach stick broke easily.\n\nThen he gave them a bundle of sticks tied together and asked them to break it.\nNone of the sons could break the bundle.\n\nThe father said, United, you are strong; divided, you are weak."
+            "content": "An old man had several sons who often quarreled with one another.\nHe wanted to teach them the value of unity.\nHe called his sons and gave each of them a single stick, asking them to break it.\nEach stick broke easily.\nThen he gave them a bundle of sticks tied together and asked them to break it.\nNone of the sons could break the bundle.\nThe father said, United, you are strong divided, you are weak."
             "imageUrl": "https://i.postimg.cc/5tfMH2bx/image.png",
             "thumbinalUrl": "https://i.postimg.cc/fJ21TdyR/image.png",
             "author": "Traditional",
@@ -111,7 +111,7 @@
         {
             "id": 10,
             "title": "The Clever Monkey",
-            "content": "A monkey once saw a farmer carrying a basket of fruits.\nThe farmer placed the basket under a tree while he rested.\n\nThe monkey wanted the fruits but knew the farmer would stop him.\nHe thought of a clever plan.\n\nHe called his friends and together they created a distraction.\nWhile the farmer was busy, the monkey grabbed some fruits and climbed up the tree.\n\nThe farmer tried to catch him, but the monkey was too clever and escaped.\n\nMoral: Clever thinking and planning can help solve problems."
+            "content": "A monkey once saw a farmer carrying a basket of fruits.\nThe farmer placed the basket under a tree while he rested. \nThe monkey wanted the fruits but knew the farmer would stop him.\nHe thought of a clever plan.\nHe called his friends and together they created a distraction.\nWhile the farmer was busy, the monkey grabbed some fruits and climbed up the tree.\n\nThe farmer tried to catch him, but the monkey was too clever and escaped."
             "imageUrl": "https://i.postimg.cc/hGVbYKd7/image.png",
             "thumbinalUrl": "https://i.postimg.cc/nsW3Rz9S/image.png",
             "author": "Anonymous",
@@ -159,7 +159,7 @@
         {
             "id": 14,
             "title": "The Golden Touch",
-            "content": "King Midas loved gold more than anything in the world.\nOne day, a stranger granted him a wish, and Midas wished that everything he touched would turn to gold.\n\nAt first, he was delighted as flowers, food, and objects turned into gold.\nBut soon, he realized the curse of his wish—he could not eat, drink, or even hug his daughter without turning them into gold.\n\nMidas begged to have the gift taken away, and the stranger agreed."
+            "content": "King Midas loved gold more than anything in the world.\nOne day, a stranger granted him a wish, and Midas wished that everything he touched would turn to gold.\nAt first, he was delighted as flowers, food, and objects turned into gold.\nBut soon, he realized the curse of his wish—he could not eat, drink, or even hug his daughter without turning them into gold.\n\nMidas begged to have the gift taken away, and the stranger agreed."
             "imageUrl": "https://i.postimg.cc/7hRxsp5r/image.png",
             "thumbinalUrl": "https://i.postimg.cc/VS580JcK/image.png",
             "author": "Anonymous",
@@ -207,7 +207,7 @@
         {
             "id": 18,
             "title": "The Town Mouse and the Country Mouse",
-            "content": "A country mouse invited his cousin, the town mouse, to his home in the countryside.\nThe town mouse found the simple country food plain and uninteresting.\n\nThe town mouse invited the country mouse to the city, where there was plenty of luxurious food.\nBut in the city, they had to hide from humans and cats, which made them scared.\n\nThe country mouse realized that simple living in peace was better than luxury with danger.\n\nMoral: A simple, safe life is better than a luxurious but risky one."
+            "content": "A country mouse invited his cousin, the town mouse, to his home in the countryside.\nThe town mouse found the simple country food plain and uninteresting.\nThe town mouse invited the country mouse to the city, where there was plenty of luxurious food.\nBut in the city, they had to hide from humans and cats, which made them scared. \nThe country mouse realized that simple living in peace was better than luxury with danger."
             "imageUrl": "https://i.postimg.cc/tTtkzjm7/image.png",
             "thumbinalUrl": "https://i.postimg.cc/qg6nJVJy/image.png",
             "author": "Anonymous",
@@ -219,7 +219,7 @@
         {
             "id": 19,
             "title": "The Donkey and the Salt",
-            "content": "A farmer was carrying salt on his donkey’s back.\nThe donkey stumbled into a river, and the load of salt dissolved in the water.\n\nThe donkey was happy to feel lighter and enjoyed walking.\nThe next day, the farmer loaded the donkey with salt again, but this time he added sand to the load.\n\nThe donkey tried to repeat his trick, but the load did not get lighter.\n\nMoral: Cleverness works only once; repeated attempts may fail."
+            "content": "A farmer was carrying salt on his donkey’s back.\nThe donkey stumbled into a river, and the load of salt dissolved in the water.\nThe donkey was happy to feel lighter and enjoyed walking. \nThe next day, the farmer loaded the donkey with salt again, but this time he added sand to the load.\nThe donkey tried to repeat his trick, but the load did not get lighter.\n\nMoral: Cleverness works only once; repeated attempts may fail."
             "imageUrl": "https://i.postimg.cc/h42b4pFF/image.png",
             "thumbinalUrl": "https://i.postimg.cc/RFTLyBh0/image.png",
             "author": "Indian Folktale",
@@ -231,7 +231,7 @@
         {
             "id": 20,
             "title": "The Wind and the Sun",
-            "content": "The Wind and the Sun argued about who was stronger.\nThey saw a traveler walking along the road wearing a cloak.\n\nThe Wind tried to blow the cloak off the traveler with all his might, but the traveler only held it tighter.\n\nThen the Sun shone warmly on the traveler, and he soon took off his cloak willingly.\n\nMoral: Gentleness and kindness are stronger than force and fury."
+            "content": "The Wind and the Sun argued about who was stronger.\nThey saw a traveler walking along the road wearing a cloak.\nThe Wind tried to blow the cloak off the traveler with all his might, but the traveler only held it tighter.\nThen the Sun shone warmly on the traveler, and he soon took off his cloak willingly."
             "imageUrl": "https://i.postimg.cc/0NJKv0Ys/image.png",
             "thumbinalUrl": "https://i.postimg.cc/Z59jR27f/image.png",
             "author": "Aesop",
@@ -243,7 +243,7 @@
         {
             "id": 21,
             "title": "The Clever Rabbit",
-            "content": "A lion was terrorizing all the animals in the forest.\nThey decided to offer one animal each day to the lion to save themselves.\n\nWhen it was the clever rabbit’s turn, he devised a plan.\nHe arrived late and told the lion that another lion claimed to be stronger and was waiting in a nearby well.\n\nThe lion rushed to the well and, seeing his reflection, thought it was the other lion.\nHe jumped in to attack and drowned.\n\nMoral: Intelligence and quick thinking can defeat brute strength."
+            "content": "A lion was terrorizing all the animals in the forest.\nThey decided to offer one animal each day to the lion to save themselves. \nWhen it was the clever rabbit’s turn, he devised a plan.\nHe arrived late and told the lion that another lion claimed to be stronger and was waiting in a nearby well.\n\nThe lion rushed to the well and, seeing his reflection, thought it was the other lion.\nHe jumped in to attack and drowned."
             "imageUrl": "https://i.postimg.cc/P5v5vrPb/image.png",
             "thumbinalUrl": "https://i.postimg.cc/nVk3wv91/image.png",
             "author": "Traditional",
@@ -255,7 +255,7 @@
         {
             "id": 22,
             "title": "The Lion’s Share",
-            "content": "A lion, a fox, a jackal, and a wolf went hunting together.\nThey caught a deer and started dividing it.\n\nThe lion claimed the first portion as the strongest, the second as the bravest, the third as the cleverest, and finally, took the rest for himself.\n\nThe other animals received nothing and realized the lion always takes the largest share.\n\nMoral: The strong often take the best share, leaving little for others."
+            "content": "A lion, a fox, a jackal, and a wolf went hunting together.\nThey caught a deer and started dividing it.\n\nThe lion claimed the first portion as the strongest, the second as the bravest, the third as the cleverest, and finally, took the rest for himself.\n\nThe other animals received nothing and realized the lion always takes the largest share."
             "imageUrl": "https://i.postimg.cc/zGZ9pJxF/image.png",
             "thumbinalUrl": "https://i.postimg.cc/hthZmfj1/image.png",
             "author": "Anonymous",
@@ -267,7 +267,7 @@
         {
             "id": 23,
             "title": "The Hare and the Hound",
-            "content": "A hare and a hound were discussing who was faster.\nThey decided to race to settle the argument.\n\nThe hound ran swiftly and confidently, but the hare used his cleverness.\nHe took a shortcut and reached the finish line before the hound.\n\nThe hound was surprised and learned that speed alone is not enough; cleverness matters too.\n\nMoral: Intelligence can triumph over brute speed or strength."
+            "content": "A hare and a hound were discussing who was faster.\nThey decided to race to settle the argument.\nThe hound ran swiftly and confidently, but the hare used his cleverness.\nHe took a shortcut and reached the finish line before the hound.\nThe hound was surprised and learned that speed alone is not enough; cleverness matters too."
             "imageUrl": "https://i.postimg.cc/SR8pNjZj/image.png",
             "thumbinalUrl": "https://i.postimg.cc/YLFtJxwL/image.png",
             "author": "Indian Folktale",
