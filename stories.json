@@ -1,7 +1,7 @@
 {
   "categories": [
     {
-      "id": 1,
+      "categoryId": 1,
       "title": "Telugu",
       "description": "Enjoy stories in Telugu language",
       "color": "#6A5ACD",
@@ -23,7 +23,7 @@
       ]
     },
     {
-      "id": 2,
+      "categoryId": 2,
       "title": "English",
       "description": "Read stories in English language",
       "color": "#3CB371",
@@ -564,7 +564,7 @@
 ]
     },
     {
-      "id": 3,
+      "categoryId": 3,
       "title": "Moral Stories",
       "description": "Short stories with morals for kids",
       "color": "#FF9800",
@@ -585,7 +585,7 @@
       ]
     },
     {
-      "id": 4,
+      "categoryId": 4,
       "title": "Fairy Tales",
       "description": "Fantasy and fairy tales for kids",
       "color": "#E91E63",
