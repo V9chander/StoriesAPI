@@ -1,4 +1,20 @@
-[
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "Telugu",
+      "description": "Enjoy stories in Telugu language",
+      "color": "#6A5ACD",
+      "icon": "ic_telugu",
+      "stories":[]
+    },
+    {
+      "id": 2,
+      "title": "English",
+      "description": "Read stories in English language",
+      "color": "#3CB371",
+      "icon": "ic_english",
+      "stories":[
   {
     "id": 1,
     "title": "The Thirsty Crow",
@@ -532,3 +548,22 @@
   
   
 ]
+    },
+    {
+      "id": 3,
+      "title": "Moral Stories",
+      "description": "Short stories with morals for kids",
+      "color": "#FF9800",
+      "icon": "ic_moral",
+      "stories":[]
+    },
+    {
+      "id": 4,
+      "title": "Fairy Tales",
+      "description": "Fantasy and fairy tales for kids",
+      "color": "#E91E63",
+      "icon": "ic_fairy",
+      "stories":[]
+    }
+  ]
+}
