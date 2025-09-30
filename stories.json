@@ -6,7 +6,6 @@
       "description": "Enjoy stories in Telugu language",
       "color": "#6A5ACD",
       "icon": "ic_telugu",
-      
       "stories":[
         {
     "id": 111,
@@ -30,8 +29,7 @@
     "category": "Wisdom",
     "moral": "Hard work brings success.",
     "isFavorite": false
-  }
-        ,{
+  } ,{
     "id": 113,
     "title": "The Test Story",
     "content": "was a poor woodcutter who lived by a forest. .",
