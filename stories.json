@@ -8,7 +8,18 @@
       "icon": "ic_telugu",
       
       "stories":[
-                          {
+                               {
+    "id": 104,
+    "title": "duplicate test",
+    "content": "On a very hot summer day in",
+    "imageUrl": "https://i.postimg.cc/d0gP5Vwc/image.png",
+    "thumbnailUrl": "https://i.postimg.cc/DW54WFdM/image.png",
+    "author": "Traditional",
+    "ageGroup": "6-8",
+    "category": "Friendship",
+    "moral": "Kindness is never wasted.",
+    "isFavorite": false
+  }, {
     "id": 105,
     "title": "duplicate test",
     "content": "On a very hot summer day in",
