@@ -2,8 +2,8 @@
   "categories": [
     {
       "categoryId": 1,
-      "title": "Telugu",
-      "description": "Enjoy stories in Telugu language",
+      "title": "తెలుగు కథలు",
+      "description": "తెలుగు భాషలో కథలు వినండి",
       "color": "#6A5ACD",
       "icon": "ic_telugu",
       "stories": [
